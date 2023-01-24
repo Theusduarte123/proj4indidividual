@@ -1,4 +1,4 @@
-# proj4indidividual
+# proj4individual
 
 Existem outras entidades além dessas três? R: Sim
 ⇨ Quais são os principais campos e tipos?  Cursos, turmas, alunos e professores.
